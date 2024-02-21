@@ -1,0 +1,7 @@
+set nu
+set hlsearch
+set tabstop=4
+set expandtab
+set smarttab
+set autoindent
+
